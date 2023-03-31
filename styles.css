@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Balgruf';
+    src: url(font/balgruf/Balgruf.woff);
+    font-style:normal;
+    font-weight 100;
+}
+
+
+h1.heading,
+.recipes,
+.title {
+    font-family: "Balgruf", Helvetica, sans-serif;
+    text-align: center;
+}
+
+.section {
+    font-family: "Balgruf", "Times New Roman", sans-serif;
+   
+}
+
+img {
+    height:auto;
+    width: 50%;
+    
+}
+
+html {
+    background: rgb(231,171,101);
+    background: radial-gradient(circle, rgba(231,171,101,0.4710526315789474) 0%, rgba(231,171,101,1) 100%);
+
+}
+
+hr {
+    border: 1px solid black;    
+}
